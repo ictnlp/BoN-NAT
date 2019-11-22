@@ -28,7 +28,7 @@ The original translation corpora can be downloaded from ([IWLST'16 En-De](https:
 
 Before you run the code
 ------------------
-Set correct path to data in `data_path()` function located in [`data.py`](https://github.com/ictnlp/RSI-NAT/blob/master/data.py):
+Set correct path to data in `data_path()` function located in [`data.py`](https://github.com/ictnlp/BoN-NAT/blob/master/data.py):
 
 BoN-Joint
 ------------------
@@ -64,7 +64,9 @@ Decode the test set. This process usually takes about 20 seconds.
 ```bash
 $ sh decode_wmt.sh
 ```
-
+Reinforce-NAT
+------------------
+We also implement Reinforce-NAT (line 1294-1390) described in the paper [Retrieving Sequential Information for Non-Autoregressive Neural Machine Translation](https://arxiv.org/abs/1906.09444 "Retrieving Sequential Information for Non-Autoregressive Neural Machine Translation"). See [RSI-NAT](https://github.com/ictnlp/RSI-NAT "RSI-NAT") for the usuage.
 Citation
 ------------------
 If you find the resources in this repository useful, please consider citing:
