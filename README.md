@@ -62,7 +62,7 @@ $ sh decode_wmt.sh
 
 Reinforce-NAT
 ------------------
-We also implement Reinforce-NAT (line 1294-1390) described in the paper [Retrieving Sequential Information for Non-Autoregressive Neural Machine Translation](https://arxiv.org/abs/1906.09444 "Retrieving Sequential Information for Non-Autoregressive Neural Machine Translation"). See [RSI-NAT](https://github.com/ictnlp/RSI-NAT "RSI-NAT") for the usuage.
+We also implement Reinforce-NAT (line 1294-1390) described in the paper [Retrieving Sequential Information for Non-Autoregressive Neural Machine Translation](https://arxiv.org/abs/1906.09444 "Retrieving Sequential Information for Non-Autoregressive Neural Machine Translation"). See [RSI-NAT](https://github.com/ictnlp/RSI-NAT "RSI-NAT") for the usage.
 
 Citation
 ------------------
