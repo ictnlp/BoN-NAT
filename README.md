@@ -25,10 +25,7 @@ Dependencies
 Downloading Datasets
 ------------------
 The original translation corpora can be downloaded from ([IWLST'16 En-De](https://wit3.fbk.eu/), [WMT'16 En-Ro](http://www.statmt.org/wmt16/translation-task.html), [WMT'14 En-De](http://www.statmt.org/wmt14/translation-task.html)). We recommend you to download the preprocessed corpora released in [dl4mt-nonauto](https://github.com/nyu-dl/dl4mt-nonauto/tree/multigpu "dl4mt-nonauto").
-
-Before you run the code
-------------------
-Set correct path to data in `data_path()` function located in [`data.py`](https://github.com/ictnlp/BoN-NAT/blob/master/data.py):
+Set correct path to data in `data_path()` function located in [`data.py`](https://github.com/ictnlp/BoN-NAT/blob/master/data.py) before you run the code.
 
 BoN-Joint
 ------------------
