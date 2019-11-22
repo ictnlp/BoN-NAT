@@ -16,10 +16,8 @@ Dependencies
 * multiset
 * ipdb
 
-### GPU
-* CUDA (we recommend using the latest version. The version 8.0 was used in all our experiments.)
-
 ### Related code
+------------------
 * This code is based on [dl4mt-nonauto](https://github.com/nyu-dl/dl4mt-nonauto "dl4mt-nonauto") and [RSI-NAT](https://github.com/ictnlp/RSI-NAT "RSI-NAT"). We mainly modified the [`model.py`](https://github.com/ictnlp/BoN-NAT/blob/master/model.py "model.py") (line 1107-1292).
 
 Downloading Datasets
