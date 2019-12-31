@@ -69,7 +69,7 @@ Citation
 If you find the resources in this repository useful, please consider citing:
 ```
 @article{Shao:19,
-  author    = {Chenze Shao, Yang Feng, Jinchao Zhang, Fandong Meng, Xilin Chen, Jie Zhou},
+  author    = {Chenze Shao, Jinchao Zhang, Yang Feng, Fandong Meng and Jie Zhou},
   title     = {Minimizing the Bag-of-Ngrams Difference for Non-Autoregressive Neural Machine Translation},
   year      = {2019},
   journal   = {arXiv preprint arXiv:1911.09320},
